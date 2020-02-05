@@ -1,5 +1,8 @@
 # udacity-SDC-CameraCalibration-sample
 
+To run it: 
+$ docker run -it --rm --entrypoint "/run.sh" -p 8888:8888 -v `pwd`:/src udacity/carnd-term1-starter-kit
+
 
    
 - https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
