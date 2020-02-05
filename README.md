@@ -1,7 +1,7 @@
 # udacity-SDC-CameraCalibration-sample
 
-   [1]: http://url
-   [2]: http://another.url "A funky title"
+[1]: http://url
+[2]: http://another.url "A funky title"
    
 https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
 https://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
