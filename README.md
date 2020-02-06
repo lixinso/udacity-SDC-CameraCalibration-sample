@@ -10,3 +10,5 @@ $ docker run -it --rm --entrypoint "/run.sh" -p 8888:8888 -v `pwd`:/src udacity/
 - https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html
 - https://medium.com/analytics-vidhya/camera-calibration-with-opencv-f324679c6eb7
 - https://github.com/udacity/CarND-Camera-Calibration
+- youtube.com/watch?v=HNfPbw-1e_w
+- https://www.youtube.com/watch?v=v7jutAmWJVQ
